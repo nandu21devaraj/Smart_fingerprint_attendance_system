@@ -13,3 +13,7 @@ A smart fingerprint-based attendance system using ESP32, AWS Lambda, API Gateway
 - Fingerprint authentication
 - Real-time attendance logging
 - Cloud storage with AWS
+
+  
+  ## Demo Link
+  https://youtu.be/FmKtP7LMYH4
